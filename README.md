@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 <!--Looking for my personal [GitHub Page](http://codygunton.github.io)? -->
 <!--
 **codygunton/codygunton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
